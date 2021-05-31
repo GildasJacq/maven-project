@@ -1,21 +1,20 @@
 package com.example;
 
 /**
- * My <b>class</b>.
- *
- * @Hello Class
+ * Ceci est ma class return
  */
 public class Greeter {
 
-  /**
- * My <b>method</b>.
- *
- * @Hello-method
+  /** 
+ * Ceci est ma method
  */
   public Greeter() {
 
   }
-
+  
+/**
+ * return
+ */
   public final String greet(final String someone) {
     return String.format("Hello babacar, %s!", someone);
   }
