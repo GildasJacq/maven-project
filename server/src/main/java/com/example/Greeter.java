@@ -1,6 +1,10 @@
 package com.example;
 
-@see Annotation
+/**
+ * My <b>class</b>.
+ *
+ * @Hello Class
+ */
 public class Greeter {
 
   
