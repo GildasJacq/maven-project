@@ -7,7 +7,11 @@ package com.example;
  */
 public class Greeter {
 
-  
+  /**
+ * My <b>method</b>.
+ *
+ * @Hello-method
+ */
   public Greeter() {
 
   }
