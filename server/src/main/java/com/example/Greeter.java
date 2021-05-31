@@ -5,15 +5,16 @@ package com.example;
  */
 public class Greeter {
 
-  /** 
- * Ceci est ma method
+/** 
+ * Ceci est mon constructeur
  */
-  public Greeter() {
+ public Greeter() {
 
   }
   
 /**
- * return
+ * @param someone nom de la personne
+ * @return bonjour en String
  */
   public final String greet(final String someone) {
     return String.format("Hello babacar, %s!", someone);
